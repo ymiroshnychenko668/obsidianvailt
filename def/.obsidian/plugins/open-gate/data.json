@@ -1,0 +1,16 @@
+{
+  "uuid": "xb3ap4252kq3cndr8wnu",
+  "gates": {
+    "aHR0cHM6Ly9jaGF0Z3B0LmNvbS9jb2RleA==": {
+      "id": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS9jb2RleA==",
+      "title": "Codex",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://icon.horse/icon/chatgpt.com\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "left",
+      "profileKey": "open-gate",
+      "url": "https://chatgpt.com/codex",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}
