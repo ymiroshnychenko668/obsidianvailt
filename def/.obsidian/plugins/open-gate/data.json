@@ -11,6 +11,17 @@
       "url": "https://chatgpt.com/codex",
       "zoomFactor": 1,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "Y2hhdGdwdC5jb20=": {
+      "id": "Y2hhdGdwdC5jb20=",
+      "title": "chatgpt",
+      "icon": "globe",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://chatgpt.com",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
     }
   }
 }
