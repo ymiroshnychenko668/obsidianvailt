@@ -8,58 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7b99120e1ade12a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drone/Navigation issues/Obstacle Avoidance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obstacle Avoidance"
-            }
-          },
-          {
-            "id": "4d42276b8334c161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drone/Navigation issues/Obstacle Avoidance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obstacle Avoidance"
-            }
-          },
-          {
-            "id": "bde38a4e7759b0dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drone/Navigation issues/Path planning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Path planning"
-            }
-          },
-          {
-            "id": "aa5ee28d8686a322",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
-          },
-          {
             "id": "4dc3909302acc995",
             "type": "leaf",
             "state": {
@@ -68,9 +16,73 @@
               "icon": "smart-chat",
               "title": "Smart Chat"
             }
+          },
+          {
+            "id": "ef00315b7930cae2",
+            "type": "leaf",
+            "state": {
+              "type": "Y2hhdGdwdC5jb20=",
+              "state": {},
+              "icon": "globe",
+              "title": "chatgpt"
+            }
+          },
+          {
+            "id": "913579aefd86a0fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLM/Git integration prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git integration prompt"
+            }
+          },
+          {
+            "id": "094c13394fda4f78",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/hub4j/github-api/blob/main/pom.xml",
+                "title": "github-api/pom.xml at main · hub4j/github-api",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "github-api/pom.xml at main · hub4j/github-api"
+            }
+          },
+          {
+            "id": "02161d93af47b5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Prompt engineering/Advanced Prompt Engineering Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advanced Prompt Engineering Techniques"
+            }
+          },
+          {
+            "id": "bbd6d335896c138b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Printer/Cables and harness.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Cables and harness"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 691.5
   },
   "right": {
     "id": "79cbdadb90b1829b",
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drone/Navigation issues/Path planning.md",
+                "file": "Printer/Cables and harness.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Path planning"
+              "title": "Backlinks for Cables and harness"
             }
           },
           {
@@ -172,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drone/Navigation issues/Path planning.md",
+                "file": "Printer/Cables and harness.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Path planning"
+              "title": "Outgoing links from Cables and harness"
             }
           },
           {
@@ -201,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drone/Navigation issues/Path planning.md",
+                "file": "Printer/Cables and harness.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Path planning"
+              "title": "Outline of Cables and harness"
             }
           },
           {
@@ -271,22 +283,30 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "02821135810b6682",
+  "active": "eff356b957267cc1",
   "lastOpenFiles": [
-    "LinuxCNC/MESA/7i76euman.pdf",
-    "LinuxCNC/Untitled.md",
+    "Printer/BIGTREETECH Octopus - PIN.pdf",
+    "AI/Prompt engineering/Advanced Prompt Engineering Techniques.md",
+    "Printer/Cables and harness.pdf",
+    "Printer/Cables and harness.ai",
+    "Printer",
+    "PLM/Git integration prompt.md",
+    "AI/Prompt engineering/Prompt checklist.md",
+    "Excel 2025-07-29 13.05.06.univer.md",
+    "LinuxCNC/CONTROLLER PROJECT.md",
+    "2025-07-29.md",
+    "LinuxCNC/Controller deploy pipeline.md",
     "LinuxCNC/Huanyang HY02D223B VFD manual.pdf",
+    "Drone/Navigation issues/Spatial computing.md",
+    "AI/RAG pipelines/NVidia NeMo Retriever Extraction.md",
+    "AI/RAG pipelines",
+    "AI/NVidia PDF recognition.md",
+    "Drone/Navigation issues/Path planning.md",
+    "Drone/Navigation issues/Obstacle Avoidance.md",
+    "LinuxCNC/MESA/7i76euman.pdf",
     "HBS86.pdf",
     "LinuxCNC/MESA/6i25man.pdf",
     "LinuxCNC/MESA/7i92man.pdf",
-    "LinuxCNC/Leadshine/HBS86.pdf",
-    "LinuxCNC/Leadshine",
-    "LinuxCNC/MESA/6i24man.pdf",
-    "LinuxCNC/MESA/6I24-16.pdf",
-    "Drone/Navigation issues/Path planning.md",
-    "LinuxCNC/MESA",
-    "Drone/Navigation issues/Obstacle Avoidance.md",
-    "AI/Prompt engineering/Advanced Prompt Engineering Techniques.md",
     "Drone/Navigation issues/SLAM - Visual-Inertial Odometry.md",
     "Drone/Controllers/Ardupilot/Ardupilot.md",
     "Drone/Controllers/Untitled.md",
@@ -294,11 +314,8 @@
     "Drone/Controllers/Betaflight/Betaflight.md",
     "Drone/Controllers/PX4/Pixhawk.md",
     "Drone/Controllers/PX4/PX4.md",
-    "AI/Prompt engineering/Prompt checklist.md",
-    "Excel 2025-07-29 13.05.06.univer.md",
     "Untitled.canvas",
     "Untitled 1.md",
-    "Untitled.md",
     "Welcome.md"
   ]
 }

@@ -56,7 +56,9 @@
     "use_tool_calls": true
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "embedding_complete": true
+    }
   },
   "version": ""
 }
