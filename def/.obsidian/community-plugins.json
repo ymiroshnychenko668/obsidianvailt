@@ -4,5 +4,7 @@
   "sheet-plus",
   "obsidian-git",
   "smart-connections",
-  "editing-toolbar"
+  "editing-toolbar",
+  "code-emitter",
+  "vscode-editor"
 ]
