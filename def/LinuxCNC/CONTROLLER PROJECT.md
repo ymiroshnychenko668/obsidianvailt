@@ -9,7 +9,7 @@ https://github.com/ymiroshnychenko668/Gruber
 	LGA2011 сокет проверен 
 
 В планах протестировать платы SoC
-	На базе BGA
+	На базеBGA
 
 
 

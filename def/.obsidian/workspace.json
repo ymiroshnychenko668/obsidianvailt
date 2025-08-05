@@ -48,12 +48,12 @@
             "id": "094c13394fda4f78",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "LinuxCNC/Intel/Intel GEN Reference.md"
+                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Intel GEN Reference"
+              "icon": "lucide-file-text",
+              "title": "09-Rexroth-Ball-Screw-Assemblies-BASA"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.5041885375977
+    "width": 456.50418853759766
   },
   "right": {
     "id": "79cbdadb90b1829b",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinuxCNC/Intel/Intel GEN Reference.md",
+                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intel GEN Reference"
+              "title": "Backlinks for 09-Rexroth-Ball-Screw-Assemblies-BASA"
             }
           },
           {
@@ -215,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinuxCNC/Intel/Intel GEN Reference.md",
+                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intel GEN Reference"
+              "title": "Outgoing links from 09-Rexroth-Ball-Screw-Assemblies-BASA"
             }
           },
           {
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinuxCNC/Intel/Intel GEN Reference.md",
+                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intel GEN Reference"
+              "title": "Outline of 09-Rexroth-Ball-Screw-Assemblies-BASA"
             }
           },
           {
@@ -292,7 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,42 +317,43 @@
   },
   "active": "094c13394fda4f78",
   "lastOpenFiles": [
+    "Kinematics/Hiwin Linear-Guideway-Catalogue.pdf",
+    "Kinematics/hiwin ballscrews.pdf",
+    "Kinematics/Порівняння серій лінійних напрямних HIWIN (типорозмір до 35 мм).pdf",
+    "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
+    "Printer/Untitled.md",
+    "Kinematics",
+    "Printer/Filaments",
+    "Printer/Filaments/3dxtechdatasheets.univer.md",
+    "AI/Prompt engineering/Advanced Prompt Engineering Techniques.md",
+    "LinuxCNC/Intel/Intel GEN Reference.md",
+    "AI/Prompt engineering/Prompt checklist.md",
+    "Drone/Controllers/Betaflight/Betaflight.md",
+    "Drone/Controllers/Ardupilot/Ardupilot.md",
+    "LinuxCNC/MESA/6I24-16.pdf",
+    "LinuxCNC/MESA/6i24man.pdf",
+    "LinuxCNC/MESA/7i76euman.pdf",
+    "LinuxCNC/MESA/6i25man.pdf",
     "Excel 2025-07-29 13.05.06.univer.md",
     "Drone/Navigation issues/SLAM - Visual-Inertial Odometry.md",
     "AI/Prompt eng observation.md",
     "LinuxCNC/CONTROLLER PROJECT.md",
-    "LinuxCNC/Intel/Intel GEN Reference.md",
-    "AI/Prompt engineering/Prompt checklist.md",
-    "AI/Prompt engineering/Advanced Prompt Engineering Techniques.md",
     "AI/RAG pipelines/NVidia NeMo Retriever Extraction.md",
     "LinuxCNC/Huanyang HY02D223B VFD manual.pdf",
     "LinuxCNC/Controller deploy pipeline.md",
-    "LinuxCNC/MESA/6I24-16.pdf",
-    "LinuxCNC/MESA/6i24man.pdf",
     "LinuxCNC/LinuxCNC/linuxcnc_loadrt_modules.md",
-    "LinuxCNC/LinuxCNC",
-    "LinuxCNC/Intel",
     "LinuxCNC/LinuxCNC/linux_realtime_diagnostics_reference.md",
     "Untitled 1.canvas",
     "PLM/Git integration prompt.md",
-    "all_java_combined 2.java",
-    "JavaExample.java",
     "all_java_combined.md",
-    "all_java_combined 3.java",
-    "all_java_combined 1.java",
-    "all_java_combined.java",
     "2025-07-29.md",
     "Drone/Navigation issues/Spatial computing.md",
     "AI/NVidia PDF recognition.md",
     "Drone/Navigation issues/Path planning.md",
     "Drone/Navigation issues/Obstacle Avoidance.md",
-    "Drone/Controllers/Ardupilot/Ardupilot.md",
     "Drone/Controllers/Untitled.md",
     "Drone/Navigation issues/IMU.md",
-    "Drone/Controllers/Betaflight/Betaflight.md",
     "Drone/Controllers/PX4/Pixhawk.md",
-    "Drone/Controllers/PX4/PX4.md",
-    "Untitled.canvas",
-    "Untitled 1.md"
+    "Untitled.canvas"
   ]
 }
