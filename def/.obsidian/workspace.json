@@ -50,10 +50,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf"
+                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "09-Rexroth-Ball-Screw-Assemblies-BASA"
+              "title": "Delta VFD-E Pidar lang"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
+                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 09-Rexroth-Ball-Screw-Assemblies-BASA"
+              "title": "Backlinks for Delta VFD-E Pidar lang"
             }
           },
           {
@@ -215,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
+                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 09-Rexroth-Ball-Screw-Assemblies-BASA"
+              "title": "Outgoing links from Delta VFD-E Pidar lang"
             }
           },
           {
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
+                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09-Rexroth-Ball-Screw-Assemblies-BASA"
+              "title": "Outline of Delta VFD-E Pidar lang"
             }
           },
           {
@@ -317,10 +317,15 @@
   },
   "active": "094c13394fda4f78",
   "lastOpenFiles": [
-    "Kinematics/Hiwin Linear-Guideway-Catalogue.pdf",
-    "Kinematics/hiwin ballscrews.pdf",
+    "LinuxCNC/CONTROLLER PROJECT.md",
+    "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
+    "Kinematics/Catalogs/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
+    "LinuxCNC/VFD",
+    "LinuxCNC/Untitled.md",
+    "Kinematics/Catalogs",
+    "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
+    "Kinematics/Catalogs/hiwin ballscrews.pdf",
     "Kinematics/Порівняння серій лінійних напрямних HIWIN (типорозмір до 35 мм).pdf",
-    "Kinematics/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
     "Printer/Untitled.md",
     "Kinematics",
     "Printer/Filaments",
@@ -331,15 +336,10 @@
     "Drone/Controllers/Betaflight/Betaflight.md",
     "Drone/Controllers/Ardupilot/Ardupilot.md",
     "LinuxCNC/MESA/6I24-16.pdf",
-    "LinuxCNC/MESA/6i24man.pdf",
-    "LinuxCNC/MESA/7i76euman.pdf",
-    "LinuxCNC/MESA/6i25man.pdf",
     "Excel 2025-07-29 13.05.06.univer.md",
     "Drone/Navigation issues/SLAM - Visual-Inertial Odometry.md",
     "AI/Prompt eng observation.md",
-    "LinuxCNC/CONTROLLER PROJECT.md",
     "AI/RAG pipelines/NVidia NeMo Retriever Extraction.md",
-    "LinuxCNC/Huanyang HY02D223B VFD manual.pdf",
     "LinuxCNC/Controller deploy pipeline.md",
     "LinuxCNC/LinuxCNC/linuxcnc_loadrt_modules.md",
     "LinuxCNC/LinuxCNC/linux_realtime_diagnostics_reference.md",
@@ -353,7 +353,6 @@
     "Drone/Navigation issues/Obstacle Avoidance.md",
     "Drone/Controllers/Untitled.md",
     "Drone/Navigation issues/IMU.md",
-    "Drone/Controllers/PX4/Pixhawk.md",
     "Untitled.canvas"
   ]
 }
