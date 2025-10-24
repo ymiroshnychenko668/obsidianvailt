@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
+                "file": "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Delta VFD-E Pidar lang"
+              "title": "Backlinks for Hiwin Linear-Guideway-Catalogue"
             }
           },
           {
@@ -215,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
+                "file": "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Delta VFD-E Pidar lang"
+              "title": "Outgoing links from Hiwin Linear-Guideway-Catalogue"
             }
           },
           {
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
+                "file": "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Delta VFD-E Pidar lang"
+              "title": "Outline of Hiwin Linear-Guideway-Catalogue"
             }
           },
           {
@@ -296,13 +296,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
       "open-gate:Codex": false,
       "sheet-plus:Create excel file": false,
       "obsidian-git:Open Git source control": false,
@@ -317,13 +317,14 @@
   },
   "active": "094c13394fda4f78",
   "lastOpenFiles": [
-    "LinuxCNC/CONTROLLER PROJECT.md",
+    "LinuxCNC/VFD/《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020.pdf",
+    "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
     "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
+    "LinuxCNC/CONTROLLER PROJECT.md",
     "Kinematics/Catalogs/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
     "LinuxCNC/VFD",
     "LinuxCNC/Untitled.md",
     "Kinematics/Catalogs",
-    "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
     "Kinematics/Catalogs/hiwin ballscrews.pdf",
     "Kinematics/Порівняння серій лінійних напрямних HIWIN (типорозмір до 35 мм).pdf",
     "Printer/Untitled.md",
