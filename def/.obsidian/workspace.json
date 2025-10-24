@@ -50,10 +50,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf"
+                "file": "LinuxCNC/VFD/《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Delta VFD-E Pidar lang"
+              "title": "《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020"
             }
           },
           {
@@ -317,9 +317,9 @@
   },
   "active": "094c13394fda4f78",
   "lastOpenFiles": [
+    "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
     "LinuxCNC/VFD/《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020.pdf",
     "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
-    "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
     "LinuxCNC/CONTROLLER PROJECT.md",
     "Kinematics/Catalogs/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
     "LinuxCNC/VFD",
