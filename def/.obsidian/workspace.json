@@ -48,12 +48,14 @@
             "id": "094c13394fda4f78",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LinuxCNC/VFD/《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020.pdf"
+                "file": "LinuxCNC/x86 SBCs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020"
+              "icon": "lucide-file",
+              "title": "x86 SBCs"
             }
           },
           {
@@ -90,12 +92,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinuxCNC/CONTROLLER PROJECT.md",
+                "file": "LinuxCNC/x86 SBCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONTROLLER PROJECT"
+              "title": "x86 SBCs"
+            }
+          },
+          {
+            "id": "f2db94659a9b61f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LinuxCNC/LinuxCNC/rs274ngc reference.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "rs274ngc reference"
             }
           },
           {
@@ -113,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -315,35 +329,34 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "094c13394fda4f78",
+  "active": "f2db94659a9b61f6",
   "lastOpenFiles": [
-    "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
-    "LinuxCNC/VFD/《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020.pdf",
-    "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
+    "LinuxCNC/LinuxCNC/linux_realtime_diagnostics_reference.md",
+    "LinuxCNC/LinuxCNC/rs274ngc reference.pdf",
+    "LinuxCNC/LinuxCNC/linuxcnc_loadrt_modules.md",
+    "LinuxCNC/x86 SBCs.md",
     "LinuxCNC/CONTROLLER PROJECT.md",
+    "AI/Prompt eng observation.md",
+    "LinuxCNC/Intel/Intel GEN Reference.md",
+    "LinuxCNC/VFD/《AMD730通用矢量型变频器用户手册》_简易版_EN_20251020.pdf",
+    "LinuxCNC/VFD/Delta VFD-E Pidar lang.pdf",
+    "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
     "Kinematics/Catalogs/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
     "LinuxCNC/VFD",
-    "LinuxCNC/Untitled.md",
     "Kinematics/Catalogs",
     "Kinematics/Catalogs/hiwin ballscrews.pdf",
     "Kinematics/Порівняння серій лінійних напрямних HIWIN (типорозмір до 35 мм).pdf",
     "Printer/Untitled.md",
     "Kinematics",
-    "Printer/Filaments",
     "Printer/Filaments/3dxtechdatasheets.univer.md",
     "AI/Prompt engineering/Advanced Prompt Engineering Techniques.md",
-    "LinuxCNC/Intel/Intel GEN Reference.md",
     "AI/Prompt engineering/Prompt checklist.md",
     "Drone/Controllers/Betaflight/Betaflight.md",
     "Drone/Controllers/Ardupilot/Ardupilot.md",
-    "LinuxCNC/MESA/6I24-16.pdf",
     "Excel 2025-07-29 13.05.06.univer.md",
     "Drone/Navigation issues/SLAM - Visual-Inertial Odometry.md",
-    "AI/Prompt eng observation.md",
     "AI/RAG pipelines/NVidia NeMo Retriever Extraction.md",
     "LinuxCNC/Controller deploy pipeline.md",
-    "LinuxCNC/LinuxCNC/linuxcnc_loadrt_modules.md",
-    "LinuxCNC/LinuxCNC/linux_realtime_diagnostics_reference.md",
     "Untitled 1.canvas",
     "PLM/Git integration prompt.md",
     "all_java_combined.md",
