@@ -13,8 +13,8 @@
             "state": {
               "type": "Y2hhdGdwdC5jb20=",
               "state": {},
-              "icon": "globe",
-              "title": "chatgpt"
+              "icon": "lucide-ghost",
+              "title": "Y2hhdGdwdC5jb20="
             }
           },
           {
@@ -23,8 +23,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "smart-chat",
-              "title": "Smart Chat"
+              "icon": "lucide-ghost",
+              "title": "smart-chat-view"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS9jb2RleA==",
               "state": {},
-              "icon": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS9jb2RleA==",
-              "title": "Codex"
+              "icon": "lucide-ghost",
+              "title": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS9jb2RleA=="
             }
           }
         ]
@@ -258,23 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinematics/Catalogs/Hiwin Linear-Guideway-Catalogue.pdf",
+                "file": "LinuxCNC/LinuxCNC/rs274ngc reference.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hiwin Linear-Guideway-Catalogue"
-            }
-          },
-          {
-            "id": "8a2da77a83617be0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of rs274ngc reference"
             }
           },
           {
@@ -297,12 +287,12 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -317,22 +307,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "open-gate:Codex": false,
-      "sheet-plus:Create excel file": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "open-gate:chatgpt": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "vscode-editor:Create Code File": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2db94659a9b61f6",
+  "active": "eff356b957267cc1",
   "lastOpenFiles": [
-    "LinuxCNC/LinuxCNC/linux_realtime_diagnostics_reference.md",
+    "LinuxCNC/Jassic/bac076_2af0969ec1ab4f03899cb97797c22a52.pdf",
+    "LinuxCNC/Jassic/bac076_0da0823703bf4ec7869923be69f09f42.pdf",
+    "LinuxCNC/Jassic",
+    "LinuxCNC/MESA/thcad2.pdf",
     "LinuxCNC/LinuxCNC/rs274ngc reference.pdf",
+    "LinuxCNC/LinuxCNC/linux_realtime_diagnostics_reference.md",
     "LinuxCNC/LinuxCNC/linuxcnc_loadrt_modules.md",
     "LinuxCNC/x86 SBCs.md",
     "LinuxCNC/CONTROLLER PROJECT.md",
@@ -344,10 +331,7 @@
     "Kinematics/Catalogs/09-Rexroth-Ball-Screw-Assemblies-BASA.pdf",
     "LinuxCNC/VFD",
     "Kinematics/Catalogs",
-    "Kinematics/Catalogs/hiwin ballscrews.pdf",
-    "Kinematics/Порівняння серій лінійних напрямних HIWIN (типорозмір до 35 мм).pdf",
     "Printer/Untitled.md",
-    "Kinematics",
     "Printer/Filaments/3dxtechdatasheets.univer.md",
     "AI/Prompt engineering/Advanced Prompt Engineering Techniques.md",
     "AI/Prompt engineering/Prompt checklist.md",
